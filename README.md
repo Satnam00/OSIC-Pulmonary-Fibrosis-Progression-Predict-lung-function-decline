@@ -45,4 +45,6 @@ The test set consists of Three_Patient_Week(s) per patient. You need to predict 
 
 ## Your Evaluation Metric
 For each true FVC measurement, you will predict both an FVC and a confidence measure (standard deviation σ). The metric is computed as:
+![scores](https://user-images.githubusercontent.com/39052765/88480298-e5fce900-cf72-11ea-8d78-bcf5cbd03c19.jpg)
+
 
