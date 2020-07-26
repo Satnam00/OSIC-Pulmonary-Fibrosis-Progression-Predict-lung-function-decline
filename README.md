@@ -1,5 +1,6 @@
 # OSIC Pulmonary Fibrosis Progression (On-going Kaggle Competion)
 ## Predict lung function decline
+## Current Rank: 10th
 
 ## Motivation:
 Imagine one day, your breathing became consistently labored and shallow. Months later you were finally diagnosed with pulmonary fibrosis, a disorder with no known cause and 
