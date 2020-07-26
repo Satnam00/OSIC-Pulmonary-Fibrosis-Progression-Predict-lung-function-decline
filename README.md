@@ -34,3 +34,15 @@ Prognosis is a medical term for predicting the likely or expected development of
 remain stable over time; expectations of quality of life, such as the ability to carry out daily activities; the potential for complications and associated health issues; and the likelihood of survival (including life expectancy).
 
 ## Reference: https://www.pulmonaryfibrosis.org/life-with-pf/about-pf
+
+# About the Competition
+## What do you need to do?
+In this competition, you’ll predict a patient’s severity of decline in lung function based on a CT scan of their lungs. You’ll determine lung function based on output from a
+spirometer, which measures the volume of air inhaled and exhaled. The challenge is to use machine learning techniques to make a prediction with the image, metadata, and baseline FVC as input.
+
+## Submission
+The test set consists of Three_Patient_Week(s) per patient. You need to predict the Forced vital capacity(FVC) i.e. volume of air exhaled and the confidence value in your prediction.
+
+## Your Evaluation Metric
+For each true FVC measurement, you will predict both an FVC and a confidence measure (standard deviation σ). The metric is computed as:
+
