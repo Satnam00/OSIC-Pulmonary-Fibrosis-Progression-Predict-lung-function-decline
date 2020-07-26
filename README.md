@@ -1,6 +1,8 @@
 # OSIC Pulmonary Fibrosis Progression (On-going Kaggle Competion)
 ## Predict lung function decline
 
+![moving_ball](https://user-images.githubusercontent.com/39052765/88481375-c8cb1900-cf78-11ea-9157-4c03fabd7f57.gif)
+
 ## Motivation:
 Imagine one day, your breathing became consistently labored and shallow. Months later you were finally diagnosed with pulmonary fibrosis, a disorder with no known cause and 
 no known cure, created by scarring of the lungs. If that happened to you, you would want to know your prognosis(a forecast of the likely outcome of a situation). That’s where a 
