@@ -23,6 +23,14 @@ Improved severity detection would also positively impact treatment trial design 
 The word “pulmonary” means lung and the word “fibrosis” means scar tissue— similar to scars that you may have on your skin from an old injury or surgery. So, in its simplest 
 sense, pulmonary fibrosis (PF) means scarring in the lungs. Over time, the scar tissue can destroy the normal lung and make it hard for oxygen to get into your blood.
 
-[
-![normal-and-impaired-gas-exchange](https://user-images.githubusercontent.com/39052765/88479760-1e9ac380-cf6f-11ea-9101-2bc73422b3bb.png)
-](url)
+[![normal-and-impaired-gas-exchange](https://user-images.githubusercontent.com/39052765/88479760-1e9ac380-cf6f-11ea-9101-2bc73422b3bb.png)](url)
+
+## Treatment Options
+As given in the description, current methods make fibrotic lung diseases difficult to treat, even with access to a chest CT scan. In addition, the wide range of varied prognoses
+create issues organizing clinical trials.
+
+## So what do you mean by Prognosis?
+Prognosis is a medical term for predicting the likely or expected development of a disease, including whether the signs and symptoms will improve or worsen (and how quickly) or
+remain stable over time; expectations of quality of life, such as the ability to carry out daily activities; the potential for complications and associated health issues; and the likelihood of survival (including life expectancy).
+
+## Reference: https://www.pulmonaryfibrosis.org/life-with-pf/about-pf
