@@ -2,9 +2,6 @@
 ## Predict lung function decline
 ## Current Rank: 12th
 
-### CT Scan of patie
-![ezgif com-crop](https://user-images.githubusercontent.com/39052765/88742777-b01d5780-d160-11ea-8446-43d69eb3618d.gif)
-
 ## Motivation:
 Imagine one day, your breathing became consistently labored and shallow. Months later you were finally diagnosed with pulmonary fibrosis, a disorder with no known cause and 
 no known cure, created by scarring of the lungs. If that happened to you, you would want to know your prognosis(a forecast of the likely outcome of a situation). That’s where a 
@@ -28,6 +25,9 @@ The word “pulmonary” means lung and the word “fibrosis” means scar tissu
 sense, pulmonary fibrosis (PF) means scarring in the lungs. Over time, the scar tissue can destroy the normal lung and make it hard for oxygen to get into your blood.
 
 [![normal-and-impaired-gas-exchange](https://user-images.githubusercontent.com/39052765/88479760-1e9ac380-cf6f-11ea-9101-2bc73422b3bb.png)](url)
+
+### CT Scan of patie
+![ezgif com-crop](https://user-images.githubusercontent.com/39052765/88742777-b01d5780-d160-11ea-8446-43d69eb3618d.gif)
 
 ## Treatment Options
 As given in the description, current methods make fibrotic lung diseases difficult to treat, even with access to a chest CT scan. In addition, the wide range of varied prognoses
