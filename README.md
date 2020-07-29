@@ -3,7 +3,7 @@
 ## Current Rank: 12th
 
 ### CT Scan of patient 
-![ezgif com-crop](https://user-images.githubusercontent.com/39052765/88742777-b01d5780-d160-11ea-8446-43d69eb3618d.gif)
+                               ![ezgif com-crop](https://user-images.githubusercontent.com/39052765/88742777-b01d5780-d160-11ea-8446-43d69eb3618d.gif)
 
 ## Motivation:
 Imagine one day, your breathing became consistently labored and shallow. Months later you were finally diagnosed with pulmonary fibrosis, a disorder with no known cause and 
