@@ -26,7 +26,7 @@ sense, pulmonary fibrosis (PF) means scarring in the lungs. Over time, the scar 
 
 [![normal-and-impaired-gas-exchange](https://user-images.githubusercontent.com/39052765/88479760-1e9ac380-cf6f-11ea-9101-2bc73422b3bb.png)](url)
 
-### CT Scan of patie
+### CT Scan of patient
 ![ezgif com-crop](https://user-images.githubusercontent.com/39052765/88742777-b01d5780-d160-11ea-8446-43d69eb3618d.gif)
 
 ## Treatment Options
